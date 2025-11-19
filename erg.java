@@ -30,4 +30,9 @@ public class erg
         // Insérez votre code ici
         return x + y;
     }
+    
+    public void print() 
+    {
+        System.out.println("truc");
+    }
 }
