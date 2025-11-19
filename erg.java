@@ -33,6 +33,6 @@ public class erg
     
     public void print() 
     {
-        System.out.println("truc");
+        System.out.println("tr   uc");
     }
 }
